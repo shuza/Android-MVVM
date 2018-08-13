@@ -1,9 +1,9 @@
-package ninja.shuza.androidMvvm.utils
+package ninja.shuza.androidMvvm
 
 /**
  *
  * :=  created by:  Shuza
- * :=  create date:  30-Jul-2018
+ * :=  create date:  14-Aug-2018
  * :=  (C) CopyRight Shuza
  * :=  www.shuza.ninja
  * :=  shuza.sa@gmail.com
@@ -11,4 +11,4 @@ package ninja.shuza.androidMvvm.utils
  *
  **/
 
-const val BASE_URL: String = "https://jsonplaceholder.typicode.com"
+val BASE_URL = "http://localhost:8080/v1/api/"
